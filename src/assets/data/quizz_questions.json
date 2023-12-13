@@ -1,0 +1,60 @@
+{
+    "title": "Adivinhe a música pelo emoji",
+    "questions":[
+        {
+            "id":1,
+            "question":"🐝 + 🛬 + 🌸? ",
+            "options":[
+                {"id":1,"name":"Abelha sem mel", "alias":"E"},
+                {"id":2,"name":"As abelhas vão zumbir", "alias":"E"},
+                {"id":3,"name":"Haja Amor", "alias":"C"}
+               
+            ]
+        },
+        {
+            "id":2,
+            "question":"🐱‍👤+ 😈+ 😴 ?",
+            "options": [
+                {"id":1,"name":"Bandido", "alias":"C"},
+                {"id":2,"name":"Amor bandido", "alias":"E"},
+                {"id":3,"name":"Coração bandido", "alias":"E"}
+            ]
+        },
+        {
+            "id":3,
+            "question":"🌊 + 🥤 + 🩳 ?",
+            "options":[
+                {"id":1,"name":"Canudinho", "alias":"C"},
+                {"id":2,"name":"Ô vontade de ser esse canudinho", "alias":"E"},
+                {"id":3,"name":"Tomar no canudinho", "alias":"E"}
+            
+            ]
+        },
+        {
+            "id":4,
+            "question":"❤ + 😋 ?",
+            "options":[
+                {"id":1,"name":" I love you corote", "alias":"E"},
+                {"id":2,"name":"Love,love","alias":"E"},
+                {"id":3,"name":"Love gostosinho","alias":"C"}
+               
+            
+            ]
+        },
+        {
+            "id":5,
+            "question":"🏖 + 🍹 + 🥥 ?",
+            "options":[
+                {"id":1,"name":"Vodka ou água de coco", "alias":"E"},
+                {"id":2,"name":"Whisky sem gelo","alias":"E"},
+                {"id":3,"name":"Pé na areia","alias":"C"}
+            
+            ]
+        }
+        
+    ],
+    "results":{
+        "C": "TÁ KIRIDAAA, ARRASOU 🤪😻!",
+        "E":"VIGIII, BORA MELHORAR MULHER 😭!"
+    }
+}
